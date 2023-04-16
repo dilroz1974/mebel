@@ -1,0 +1,57 @@
+.body{
+    background-color: rgb(250, 225, 184);
+}
+.jumbotron{
+    border: 2px solid rgb(236, 173, 37);
+    text-align: center;
+}
+.col-sm-4{
+    border: 2px solid rgb(20, 20, 20);
+    text-align: center;
+    background-color:rgb(230, 217, 148);
+    
+ }
+ .col-sm-3{
+    border: 2px solid rgb(237, 187, 62);
+    text-align: center;
+    background-color:rgb(130, 112, 8);
+    color: rgb(249, 245, 245);
+    
+ }
+ .row{
+    display: flex;
+    justify-content: space-around;
+    
+ }
+.container h1{
+    border: 2px solid rgb(236, 173, 37);
+    display: flex;
+     justify-content:space-around;
+     background-color: rgb(82, 70, 4);
+     text-align: center;
+     color: rgb(252, 249, 249);
+}
+.container h2{
+    border: 2px solid rgb(236, 173, 37);
+    display: flex;
+     justify-content:space-around;
+     background-color: rgb(118, 104, 24);
+     text-align: center;
+     margin-left: 100px;
+     margin-right: 100px;
+     color: rgb(246, 241, 241);
+}
+.container p{
+    border: 2px solid rgb(236, 173, 37);
+    display: flex;
+     justify-content:space-around;
+     background-color: rgb(86, 72, 2);
+     text-align: center;
+     margin-left: 150px;
+     margin-right: 150px;
+     color: rgb(250, 245, 245);
+}
+.row .col-sm-8{
+    border: 2px solid rgb(22, 22, 21);
+    background-color:rgb(236, 173, 37);
+}
